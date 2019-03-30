@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "529288843386",
+    "firebase_url": "https://agendaku-4846c.firebaseio.com",
+    "project_id": "agendaku-4846c",
+    "storage_bucket": "agendaku-4846c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529288843386:android:3bbbfb8d9952956d",
+        "android_client_info": {
+          "package_name": "com.example.agendaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529288843386-3ebc070ub3bju0ktpjkf9q8kisibdvnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agendaku",
+            "certificate_hash": "f068763a316dd175476cf48e826dc58e4220e36d"
+          }
+        },
+        {
+          "client_id": "529288843386-uv7opbfri80ua4eg9h8s9js4ev4pfce7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOj0_Fude-OIFfw0LlZWKxcfWTjn41Y4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529288843386-uv7opbfri80ua4eg9h8s9js4ev4pfce7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
